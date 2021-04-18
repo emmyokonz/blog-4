@@ -1,0 +1,27 @@
+.wrap {
+    background: #000;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    z-index: 3;
+    width: 100%;
+    border-bottom: 1px solid #E3E2E157;
+}
+.ftco-section {
+    padding: 15em 0 5em 0;
+    position: relative;
+}
+.social-media p a {
+    width: 44px;
+    height: 44px;
+    border-left: 1px solid #E3E2E157;
+}
+.ftco-navbar-light {
+    background: #000000e3  !important;
+    position: absolute;
+    top: 44px;
+    left: 0;
+    right: 0;
+    z-index: 3;
+}
